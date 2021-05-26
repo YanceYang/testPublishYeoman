@@ -1,0 +1,11 @@
+{
+  "name": "generator-yyx-yeoman",
+  "version": "1.0.0",
+  "description": "learn yeoman",
+  "main": "index.js",
+  "author": "YanceYang",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^5.3.0"
+  }
+}
